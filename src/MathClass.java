@@ -10,5 +10,6 @@ public class MathClass {
         System.out.println("The square root of the number is:" + " " + squareroot);
         System.out.println(number + "raised to the power of 3 is:"+ power);
 
+
     }
 }
